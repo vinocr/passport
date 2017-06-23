@@ -1,0 +1,64 @@
+/*stylesheet for the index page  */
+
+
+/*design for the body background */
+
+body {
+  background: url(https://t4.ftcdn.net/jpg/00/82/27/63/240_F_82276364_hFPEjygWQU1HtltrV8OACBFPGy991zTZ.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+
+
+/*size of the logo image */
+
+img {
+  width: 50px;
+  height: 50px;
+}
+
+
+/*style for header of the page */
+
+h1 {
+  color: red;
+  font-style: italic;
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+}
+
+
+/*style for the title in page  */
+
+#title {
+  float: left;
+  display: inline;
+}
+
+
+/* style for the table row fonts */
+
+.head {
+  color: black;
+  font-family: 'Shrikhand', cursive;
+}
+
+
+/* color for the para text */
+
+.para {
+  color: brown;
+}
+
+
+/*color for the text displays if invalid user  */
+
+.invalid {
+  color: red;
+}
+
+
+/*color for text if new user to signup  */
+
+.user {
+  color: #dc0de0;
+}

@@ -1,0 +1,112 @@
+/*stylesheet for the movie page  */
+
+
+/*design for the body background */
+
+body {
+  background: url(https://s-media-cache-ak0.pinimg.com/originals/0c/1b/54/0c1b541757e16d7c32736c0ec00d416f.jpg) no-repeat fixed center;
+  background-size: cover;
+}
+
+
+/*size of the logo image */
+
+img {
+  width: 50px;
+  height: 50px;
+  margin-top: 20px;
+}
+
+
+/* size of the poster image*/
+
+#image {
+  height: 100px;
+  width: 100px;
+}
+
+
+/*alignment for the logout button */
+
+#log {
+  margin-left: 760px;
+  color: black;
+  background-color: cyan;
+  border-radius: 2px;
+}
+
+
+/*decoration for the button when hovers*/
+
+#log:hover {
+  text-decoration: none;
+}
+
+
+/*style for header of the page */
+
+h1 {
+  color: red;
+  font-style: italic;
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+}
+
+
+/*style for the title of the page */
+
+#title {
+  float: left;
+  display: inline;
+}
+
+
+/*color and size for the text in page */
+
+.fontclr {
+  font-size: 15px;
+  color: aliceblue;
+}
+
+
+/*style for space bewtween form and table */
+
+.tab {
+  margin-top: 20px;
+}
+
+
+/*style for table data */
+
+td {
+  text-align: center;
+}
+
+
+/*color for the table background */
+
+#listmovies {
+  color: black;
+  background-color: #23214f;
+}
+
+
+/*color for table heading */
+
+#tt {
+  color: yellow;
+}
+
+
+/*color for the table data texts */
+
+#trr {
+  color: violet;
+}
+
+
+/*color for the button tag */
+
+button {
+  color: black;
+}
